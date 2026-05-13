@@ -1,0 +1,9 @@
+app/
+ ├── services/
+ │    ├── performance.service.ts
+ │    ├── api.service.ts
+ ├── components/
+ │    ├── performance-dashboard/
+ │    ├── logs/
+ ├── models/
+ │    ├── metric.model.ts

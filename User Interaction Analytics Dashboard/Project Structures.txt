@@ -1,0 +1,9 @@
+app/
+ ├── services/
+ │    ├── tracking.service.ts
+ │    ├── analytics.service.ts
+ ├── components/
+ │    ├── analytics-dashboard/
+ │    ├── event-log/
+ ├── models/
+ │    ├── interaction.model.ts

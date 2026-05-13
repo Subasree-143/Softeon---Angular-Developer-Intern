@@ -1,0 +1,11 @@
+src/
+ ├── app/
+ │   ├── services/
+ │   │    ├── validation.service.ts
+ │   │    ├── monitoring.service.ts
+ │   ├── models/
+ │   │    ├── event.model.ts
+ │   ├── components/
+ │   │    ├── dashboard/
+ │   │    ├── upload/
+ │   │    ├── error-log/

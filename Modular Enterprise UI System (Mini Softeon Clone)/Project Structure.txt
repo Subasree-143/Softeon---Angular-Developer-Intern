@@ -1,0 +1,11 @@
+src/app/
+ ├── core/               (singleton services)
+ ├── shared/             (reusable UI components)
+ ├── features/
+ │    ├── dashboard/
+ │    ├── orders/
+ │    ├── inventory/
+ ├── layout/
+ │    ├── sidebar/
+ │    ├── header/
+ ├── models/
